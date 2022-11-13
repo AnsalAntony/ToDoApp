@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MBProgressHUD",
+        "repositoryURL": "https://github.com/jdg/MBProgressHUD.git",
+        "state": {
+          "branch": null,
+          "revision": "bca42b801100b2b3a4eda0ba8dd33d858c780b0d",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "3c4b86da569368c4ee5ccca2a112d511cc6fa936",
+          "version": "12.11.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-swift",
+        "state": {
+          "branch": "master",
+          "revision": "66cf2fc246f87c06940e6c3a6dc5908c316fa5d6",
+          "version": null
+        }
+      },
+      {
+        "package": "TPKeyboardAvoidingSwift",
+        "repositoryURL": "https://github.com/apple-avadhesh/TPKeyboardAvoidingSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "285ff05f3c62ed3b9d137afc169b34599de1a147",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

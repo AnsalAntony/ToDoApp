@@ -31,6 +31,7 @@
 		4D37ECA52921311900FCA440 /* ToDoAppApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D37ECA42921311900FCA440 /* ToDoAppApiService.swift */; };
 		4D37ECA7292133F000FCA440 /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D37ECA6292133F000FCA440 /* LoginModel.swift */; };
 		4D37ECA92921368500FCA440 /* DataDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D37ECA82921368500FCA440 /* DataDecode.swift */; };
+		4D37ECB12925413400FCA440 /* LoginViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D37ECB02925413400FCA440 /* LoginViewModelTest.swift */; };
 		4D6556A5291C524D00AB4E30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6556A4291C524D00AB4E30 /* AppDelegate.swift */; };
 		4D6556A7291C524D00AB4E30 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6556A6291C524D00AB4E30 /* SceneDelegate.swift */; };
 		4D6556AC291C524D00AB4E30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D6556AA291C524D00AB4E30 /* Main.storyboard */; };
@@ -80,6 +81,7 @@
 		4D37ECA42921311900FCA440 /* ToDoAppApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoAppApiService.swift; sourceTree = "<group>"; };
 		4D37ECA6292133F000FCA440 /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
 		4D37ECA82921368500FCA440 /* DataDecode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataDecode.swift; sourceTree = "<group>"; };
+		4D37ECB02925413400FCA440 /* LoginViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModelTest.swift; sourceTree = "<group>"; };
 		4D6556A1291C524D00AB4E30 /* itAgenturenToDoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = itAgenturenToDoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D6556A4291C524D00AB4E30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D6556A6291C524D00AB4E30 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -254,6 +256,7 @@
 			isa = PBXGroup;
 			children = (
 				4D6556BE291C524F00AB4E30 /* itAgenturenToDoAppTests.swift */,
+				4D37ECB02925413400FCA440 /* LoginViewModelTest.swift */,
 			);
 			path = itAgenturenToDoAppTests;
 			sourceTree = "<group>";
@@ -439,6 +442,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D37ECB12925413400FCA440 /* LoginViewModelTest.swift in Sources */,
 				4D6556BF291C524F00AB4E30 /* itAgenturenToDoAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
